@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Checkpoint2</string>
+    <string name="weather">Weather</string>
+    <string name="traffic">Traffic</string>
+    <string name="calendar">Calendar</string>
+    <string name="alarm_clock">Alarm Clock</string>
+    <string name="enter_city">Enter City...</string>
+    <string name="enter">Enter</string>
+    <string name="city">City</string>
+</resources>
